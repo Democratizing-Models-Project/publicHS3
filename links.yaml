@@ -1,0 +1,32 @@
+hepdata:
+  # links from https://scikit-hep.org/pyhf/citations.html#published-statistical-models
+  # commented inks are too large files to download
+  # - https://doi.org/10.17182/hepdata.129959.v1/r1
+  # - https://doi.org/10.17182/hepdata.129959.v1/r2
+  # - https://doi.org/10.17182/hepdata.129959.v1/r3
+  # - https://doi.org/10.17182/hepdata.129959.v1/r4
+  # - https://doi.org/10.17182/hepdata.134244.v1/r1
+  # - https://doi.org/10.17182/hepdata.134244.v1/r2
+  # - https://doi.org/10.17182/hepdata.105039.v1/r1
+  # - https://doi.org/10.17182/hepdata.105039.v1/r2
+  # - https://doi.org/10.17182/hepdata.133620.v1/r1
+  # - https://doi.org/10.17182/hepdata.100170.v1/r1
+  - https://doi.org/10.17182/hepdata.95928.v2/r5
+  - https://doi.org/10.17182/hepdata.116034.v1/r34
+  - https://doi.org/10.17182/hepdata.104458.v3/r9
+  - https://doi.org/10.17182/hepdata.95751.v2/r3
+  - https://doi.org/10.17182/hepdata.100351.v2/r1
+  - https://doi.org/10.17182/hepdata.100174.v2/r1
+  - https://doi.org/10.17182/hepdata.97041.v2/r3
+  - https://doi.org/10.17182/hepdata.99806.v2/r2
+  - https://doi.org/10.17182/hepdata.98796.v2/r1
+  - https://doi.org/10.17182/hepdata.95664.v2/r9
+  - https://doi.org/10.17182/hepdata.95748.v2/r1
+  - https://doi.org/10.17182/hepdata.91760.v2/r1
+  - https://doi.org/10.17182/hepdata.91127.v2/r3
+  - https://doi.org/10.17182/hepdata.91374.v5/r6
+  - https://doi.org/10.17182/hepdata.92006.v2/r2
+  - https://doi.org/10.17182/hepdata.90607.v4/r3
+  - https://doi.org/10.17182/hepdata.91214.v4/r6
+  - https://doi.org/10.17182/hepdata.89413.v4/r5
+  - https://doi.org/10.17182/hepdata.89408.v3/r2
